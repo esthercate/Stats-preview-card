@@ -29,8 +29,8 @@ ou can find the solution screenshots for both desktop and mobile under finalsolu
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/frontend-mentor-stats-preview-card-component-qJkEegoaD)
-- Live Site URL: [Add live site URL here](https://esthercate.github.io/Stats-preview-card/)
+- Solution URL: (https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/frontend-mentor-stats-preview-card-component-qJkEegoaD)
+- Live Site URL: (https://esthercate.github.io/Stats-preview-card/)
 
 
 ### Built with
@@ -68,6 +68,6 @@ I want to continue focusing on css grid, flexbox, SCSS, and one of Javascript fr
 
 ## 
 - Catherine Vuthi
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/esthercate)
+- Frontend Mentor - [@esthercate](https://www.frontendmentor.io/profile/esthercate)
 
 
