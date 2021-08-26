@@ -29,8 +29,8 @@ ou can find the solution screenshots for both desktop and mobile under finalsolu
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/frontend-mentor-stats-preview-card-component-qJkEegoaD)
-- Live Site URL: (https://esthercate.github.io/Stats-preview-card/)
+- Solution URL: [Solution URLL](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/frontend-mentor-stats-preview-card-component-qJkEegoaD)
+- Live Site URL: [Live site URL](https://esthercate.github.io/Stats-preview-card/)
 
 
 ### Built with
